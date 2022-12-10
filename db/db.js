@@ -91,7 +91,7 @@ export default {
 				techStack: ["AndroidStudio", "Espresso"],
 			},
 		],
-		"Analysis": [
+		Analysis: [
 			{
 				projectName: "SNS energy keyword analysis(Ongoing)",
 				image: "images/a.png",
