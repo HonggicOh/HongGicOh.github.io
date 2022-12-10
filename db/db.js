@@ -52,7 +52,7 @@ export default {
 				projectName: "Agri modelling",
 				image: "images/agri.png",
 				summary:
-					"Collected data and manipulated data for prediction algorithm. My role was Data collection, Data wrangling, and Data mining",
+					"Predict future Australian crop production and price from various factors such as weather, global crop trade, etc. My main role in this project was data collection, cleaning, mining, and aggregation for prediction algorithm.",
 				preview: "http://13.211.157.235:5000/home/",
 				techStack: [
 					"Excel",
@@ -65,9 +65,9 @@ export default {
 				projectName: "Team Kosy",
 				image: "images/kosy.png",
 				summary:
-					"Found out the correlation between the number of electric car and power station.My role was Data collection, Data wrangling, Data mining, and Team management",
+					"Find out the precise correlation between the number of electric cars and power stations. My main role was data collection, cleaning, aggregation, mining, and project management",
 				preview: "https://teamkosy.pythonanywhere.com/",
-				techStack: ["Excel", "Python", "R"],
+				techStack: ["Excel", "Python", "R","Crawling"],
 			},
 		],
 		software: [
@@ -75,7 +75,7 @@ export default {
 				projectName: "AZUL",
 				image: "images/AZUL.png",
 				summary:
-					"Implemented board game Azul based on OOP. Enable player to play a game with computer or another player. My role was Front-end(full) and Back-end(partial)",
+					"Implemented board game Azul based on OOP. Enable player to play a game with computer or another player. My main role was Front-end(full) and Back-end(partial)",
 				preview:
 					"https://github.com/HonggicOh/AZUL",
 				techStack: ["Java", "JavaFx"],
@@ -86,7 +86,7 @@ export default {
 				projectName: "Route42",
 				image: "images/route.png",
 				summary:
-					"Social Network Service app with route tracking service.My role was Search implementation, Grammar, and UI Testing",
+					"Social Network Service app with route tracking service.My main role was Search implementation, Grammar, and UI Testing",
 				preview: "https://github.com/HonggicOh/Route42",
 				techStack: ["AndroidStudio", "Espresso"],
 			},
