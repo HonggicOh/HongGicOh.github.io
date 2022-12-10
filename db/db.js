@@ -3,46 +3,34 @@ export default {
 		about: {
 			text: [
 				"Hi &#128075;",
-				"I'm Vinay Somawat. I’m currently working as a Software Engineer at Biofourmis India specialized in JavaScript Applications. I did my undergrad in CS from NIT Warangal.",
-				"I'm a developer, geek and curious human besides being an OpenSource enthusiast. I have experience of delivering solutions for interesting problems from startup and industry space.",
-				"I love to read, listen to music, and travel.",
+				"I’m currently looking for a computer science job in Australia. I graduate in Master of Computing at ANU and I did my undergraduate study in Mathematics and business administration at Kyonggi University in Korea.",
+				"I'm a person who has an interest in data and electric car and curious about future technology. I have 3 years working experience in semiconductor and display manufacturing machine field as a Technical Sales and Quality Assurance manager.",
+				"Lastly, I love to play billiards, computer games, and watch a movie or sports games with beer.",
 			],
 		},
 		contact: {
 			text: [
-				"If you would like to get in touch with me, be it for exploring a technology, a business, or to just say hi, feel free to send me an email. My email address is: vinaysomawat40@gmail.com",
+				"If you would like to get in touch with me, feel free to send me an email at cjswoghdwlr@gmail.com",
 			],
 		},
 	},
 	skills: [
 		{
 			title: "Languages",
-			skillName: "JavaScript, C++",
+			skillName: "Python",
 			color: "1",
-			percentage: "70",
-		},
-		{
-			title: "Frameworks/Libraries",
-			skillName: "Angular, Reactjs",
-			color: "6",
-			percentage: "50",
+			percentage: "80",
 		},
 		{
 			title: "Backend",
-			skillName: "Nodejs, MongoDB",
+			skillName: "SQL",
+			color: "6",
+			percentage: "80",
+		},
+		{
+			title: "Languages",
+			skillName: "Java",
 			color: "2",
-			percentage: "40",
-		},
-		{
-			title: "Clouds",
-			skillName: "AWS(EC2, S3), Heroku, Netlify",
-			color: "3",
-			percentage: "30",
-		},
-		{
-			title: "Design",
-			skillName: "HTML, Bootstrap, SCSS",
-			color: "4",
 			percentage: "70",
 		},
 		{
@@ -52,21 +40,9 @@ export default {
 			percentage: "70",
 		},
 		{
-			title: "Tools",
-			skillName: "Postman, Chrome DevTools",
+			title: "Analysis",
+			skillName: "R, Visualisation",
 			color: "3",
-			percentage: "80",
-		},
-		{
-			title: "Saas products",
-			skillName: "CleverTap, FreshDesk",
-			color: "5",
-			percentage: "50",
-		},
-		{
-			title: "Editor",
-			skillName: "VS Code",
-			color: "6",
 			percentage: "70",
 		},
 	],
