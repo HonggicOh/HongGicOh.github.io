@@ -1,4 +1,4 @@
-import { default as data } from "../db/db.js";
+import { default as data } from "db.js";
 
 /*
 	fetching latest blogs from medium.com
