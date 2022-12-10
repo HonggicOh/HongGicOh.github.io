@@ -65,7 +65,7 @@ export default {
 				projectName: "Team Kosy",
 				image: "images/kosy.png",
 				summary:
-					"Found out the correlation between the number of electric car and power station.\nRole : Data collection, Data wrangling, Data mining, Team management",
+					"Found out the correlation between the number of electric car and power station.\r\nRole : Data collection, Data wrangling, Data mining, Team management",
 				preview: "https://teamkosy.pythonanywhere.com/",
 				techStack: ["Excel", "Python", "R"],
 			},
@@ -75,7 +75,7 @@ export default {
 				projectName: "AZUL",
 				image: "images/AZUL.png",
 				summary:
-					"Implemented board game Azul based on OOP. Enable player to play a game with computer or another player.\nRole: Front-end(full), Back-end(partial)",
+					"Implemented board game Azul based on OOP. Enable player to play a game with computer or another player.\r\nRole: Front-end(full), Back-end(partial)",
 				preview:
 					"https://github.com/HonggicOh/AZUL",
 				techStack: ["Java", "JavaFx"],
@@ -86,7 +86,7 @@ export default {
 				projectName: "Route42",
 				image: "images/route.png",
 				summary:
-					"Social Network Service app with route tracking service.\nRole : Search implementation, Grammar, UI Testing",
+					"Social Network Service app with route tracking service.\r\nRole : Search implementation, Grammar, UI Testing",
 				preview: "https://github.com/HonggicOh/Route42",
 				techStack: ["AndroidStudio", "Espresso"],
 			},
@@ -129,7 +129,7 @@ export default {
 				"Analysis",
 				"Client response"
 			],
-			icon: "company",
+			icon: "statistics",
 		},
 		{
 			title: "DooHoINS Co., Ltd",
