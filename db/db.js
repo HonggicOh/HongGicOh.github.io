@@ -71,7 +71,7 @@ export default {
 				projectName: "AZUL",
 				image: "images/AZUL.png",
 				summary:
-					"Implemented board game Azul based on OOP. Enable player to play a game with computer or another player.Role: Front-end(full), Back-end(partial)"
+					"Implemented board game Azul based on OOP. Enable player to play a game with computer or another player.Role: Front-end(full), Back-end(partial)",
 				preview:
 					"https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
 				techStack: ["Java", "JavaFx"],
