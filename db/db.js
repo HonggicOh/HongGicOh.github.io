@@ -36,13 +36,13 @@ export default {
 		{
 			title: "Version Control",
 			skillName: "GitHub, Trello",
-			color: "7",
+			color: "3",
 			percentage: "70",
 		},
 		{
 			title: "Analysis",
 			skillName: "R, Visualisation",
-			color: "3",
+			color: "8",
 			percentage: "70",
 		},
 	],
@@ -52,7 +52,7 @@ export default {
 				projectName: "Agri modelling",
 				image: "images/agri.png",
 				summary:
-					"Collected data and manipulated data for prediction algorithm. Role : Data collection, Data wrangling, Data mining",
+					"Collected data and manipulated data for prediction algorithm.\nRole : Data collection, Data wrangling, Data mining",
 				preview: "http://13.211.157.235:5000/home/",
 				techStack: [
 					"Excel",
@@ -65,10 +65,9 @@ export default {
 				projectName: "Team Kosy",
 				image: "images/kosy.png",
 				summary:
-					"Found out the correlation between the number of electric car and power station.",
-				Role : "Data collection, Data wrangling, Data mining, Team management",
+					"Found out the correlation between the number of electric car and power station.\nRole : Data collection, Data wrangling, Data mining, Team management",
 				preview: "https://teamkosy.pythonanywhere.com/",
-				techStack: ["Excel", "Python", "R",],
+				techStack: ["Excel", "Python", "R"],
 			},
 		],
 		software: [
@@ -76,143 +75,113 @@ export default {
 				projectName: "AZUL",
 				image: "images/AZUL.png",
 				summary:
-					"ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
+					"Implemented board game Azul based on OOP. Enable player to play a game with computer or another player.\nRole: Front-end(full), Back-end(partial)",
 				preview:
-					"https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
-				techStack: ["Dailogflow", "Firebase"],
-			},
-			{
-				projectName: "WhatsApp-Bot",
-				image: "images/whatsappbot.jpg",
-				summary:
-					"Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-				preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
-				techStack: ["Selenium", "Chrome Webdriver", "Python"],
-			},
-			{
-				projectName: "Bill Generator",
-				image: "images/billgenerator.png",
-				summary:
-					"GUI to transfer data to excel sheets and generate bills on the local shops.",
-				preview: "https://github.com/vinaysomawat/Bill-Generator",
-				techStack: ["Tkinter", "Openxlpy", "Python"],
+					"https://github.com/HonggicOh/AZUL",
+				techStack: ["Java", "JavaFx"],
 			},
 		],
 		android: [
 			{
-				projectName: "NITW-CSE",
-				image: "images/nitwcse.jpg",
+				projectName: "Route42",
+				image: "images/route.png",
 				summary:
-					"The Application display details of Department courses, reference books, research, publication and faculty profile.",
-				preview: "https://github.com/vinaysomawat/NITW-CSE",
-				techStack: ["JAVA", "XML", "Android"],
-			},
-			{
-				projectName: "CareerHigh-App",
-				image: "images/carrerhigh.png",
-				summary:
-					"The Application display the webpages of website careerhigh.in in android devices.",
-				preview: "https://github.com/vinaysomawat/CareerHigh-Android",
-				techStack: ["JAVA", "XML", "Android"],
+					"Social Network Service app with route tracking service.\nRole : Search implementation, Grammar, UI Testing",
+				preview: "https://github.com/HonggicOh/Route42",
+				techStack: ["AndroidStudio", "Espresso"],
 			},
 		],
-		freelance: [
+		"Other projects & Assignments": [
 			{
-				projectName: "SnylloAir.com",
-				image: "images/snylloair.png",
+				projectName: "SNS energy keyword analysis(Ongoing)",
+				image: "images/a.png",
 				summary:
-					"Developed a company website to showcase the purpose, services and products provided by the company to audience.",
-				preview: "https://www.snylloair.com/",
-				techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
+					"Collect and analyse Australian's idea about eco-friendly energy on Tweeter.",
+				preview: "will update soon",
+				techStack: ["Python","OpenAPI"],
 			},
 			{
-				projectName: "Delivery+",
-				image: "images/AM-Logo-.png",
+				projectName: "Questionnaire Analysis",
+				image: "images/QA.png",
 				summary:
-					"Android Application to display website in android devices.",
+					"Analysing Australians' response about life, COVID-19, vaccine, mental health, employment, income, behaviour from Life in Australia Wave41 August 2020.",
 				preview:
-					"https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
-				techStack: ["Android", "JAVA", "Play Store"],
+					"will update soon",
+				techStack: ["Python", "R"],
 			},
 		],
 	},
 	experience: [
 		{
-			title: "Biofourmis India Pvt. Ltd.",
-			duration: "April 2022 - Present",
-			subtitle: "Software Engineer",
+			title: "DooHoINS Co., Ltd",
+			duration: "Jan 2018 - Dec 2019",
+			subtitle: "Quality Assurance Manager",
 			details: [
-				"Working on the products in the healthcare/digital therapeutics domain."
+				"Assessed materials and products for conformance with quality control requirements and production specifications",
+				"Published monthly Non-Conformance Reports(NCR) to provide statistical data about issues and solutions."
+				"Established Standard Operating Procedure (SOP)"
+				"Client Audit preparation"
 			],
 			tags: [
-				"JavaScript",
-				"Angular",
-				"Bootstrap",
-				"Nodejs",
-				"Jenkins",
+				"SOP",
+				"NCR",
+				"Schedule management",
+				"Analysis",
+				"Client response"
 			],
-			icon: "heartbeat",
+			icon: "semiconductor",
 		},
 		{
-			title: "Novopay Solutions Pvt. Ltd.",
-			duration: "June 2020 - April 2022",
-			subtitle: "Software Engineer",
+			title: "DooHoINS Co., Ltd",
+			duration: "Jan 2016 - Dec 2018",
+			subtitle: "Senior staff",
 			details: [
-				"Implemented Aadhaar Enabled Payment services such as Bio-metric eKYC, Cash Withdrawal, Balance Enquiry, Mini-Statements, and Money transfer; completed more than 20 story points in each sprint.",
-				"Integrated QR Code and reduced the effective time by 50 percent to load money into wallet, Clevertap events to track user actions, Freshdesk ticketing service and chat-bot services. Worked on user onboarding, approval, and finance interfaces.",
-				"Co-ordinated closely with the product team, backend team, android team, and QA team to deliver the product builds before deadlines.",
+                "Conducted comparative analysis of products (material type, size, predicted work hour, work type and price) to finalise proper quotes for clients."
+				"Presented sales report for business development planning, and analysis for product trends.",
+				"Managed inventory data to adjust, evaluate and forecast demand.",
+				"Ensured successful product delivery by coordinating with the manufacturing, delivery team and clients."
 			],
 			tags: [
-				"JavaScript",
-				"Angular",
-				"React",
-				"Bootstrap",
-				"Nodejs",
-				"Jenkins",
+				"CAD"
+				"Quote",
+				"Inventory management",
+				"Sales report",
+				"Price analysis",
+				"Client support",
 			],
-			icon: "qrcode",
-		},
-		{
-			title: "ThinkPedia LLP",
-			duration: "May 2019 - June 2019",
-			subtitle: "SDE Intern",
-			details: [
-				"Worked as a full stack developer to support tech team.",
-				"Developed a customer Web Application from scratch for social media management.",
-			],
-			tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
-			icon: "group",
+			icon: "qroup",
 		},
 	],
 	education: [
 		{
-			title: "Bachelors in Computer Science and Engineering",
+			title: "Master of computing",
 			duration: "",
-			subtitle: "National Institute of Technology, Warangal",
+			subtitle: "Australian National University, Canberra",
 			details: [
-				"Qualified GATE-2020.",
-				"Active Competitive Programmer with CodeChef Rating 1841*.",
-				"Received 500+ stars and 300+ forks on GitHub projects.",
+				"Data Science specialisation.",
+				"GPA of 5.56 out of 7.0",
+				"Received over 80% marks for most coding assignments.",
 			],
 			tags: [
-				"Data Structures & Algorithms",
-				"Operating Systems",
-				"Database Management System",
-				"Computer Networks",
-				"Compiler Designing",
-				"Cloud Computing",
+				"Data Mining",
+				"Data wrangling",
+				"Relational Database",
+				"Document analysis",
+				"Software construction",
+				"Structured programming",
+				"Artificial Intelligence"
 			],
 			icon: "graduation-cap",
 		},
 		{
-			title: "Class 11-12th in Science and Mathematics",
+			title: "Mathematics (Bachelor of Science in Science)",
 			duration: "",
-			subtitle: "Board of Secondary Education, Rajasthan",
+			subtitle: "Kyonggi University, Suwon, Republic of Korea",
 			details: [
-				"Qualified JEE Advanced, Main & BITSAT.",
-				"Secured 99.5 percentile in Class 12th Boards Examinations.",
+				"GPA of 3.6 out of 4.5",
+				"Double major in Business Administration",
 			],
-			tags: ["Physics", "Chemistry", "Mathematics"],
+			tags: ["Analytics", "Cryptography", "Algebra"],
 			icon: "book",
 		},
 	],
@@ -221,16 +190,8 @@ export default {
 			label: "Dev Profiles",
 			data: [
 				{
-					text: "Stackoverflow",
-					link: "https://stackoverflow.com/users/8461233/vinay-somawat",
-				},
-				{
 					text: "GitHub",
-					link: "https://github.com/vinaysomawat",
-				},
-				{
-					text: "LeetCode",
-					link: "https://leetcode.com/somawatvinay/",
+					link: "https://github.com/HonggicOh",
 				},
 			],
 		},
@@ -245,10 +206,6 @@ export default {
 					text: "Print this page",
 					func: "window.print()",
 				},
-				{
-					text: "Clone this page",
-					link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
-				},
 			],
 		},
 		{
@@ -256,22 +213,17 @@ export default {
 			data: [
 				{
 					text: "Linkedin",
-					link: "https://www.linkedin.com/in/vinaysomawat/",
+					link: "https://www.linkedin.com/in/honggic-oh-46b909242/",
 				},
 				{
-					text: "Twitter",
-					link: "https://twitter.com/thesigmakid",
-				},
-				{
-					text: "Buy me a coffee",
-					link: "https://www.buymeacoffee.com/r194dME8y",
+					text: "Facebook",
+					link: "https://www.facebook.com/profile.php?id=100004629722861",
 				},
 			],
 		},
 		{
 			label: "copyright-text",
 			data: [
-				"Made with &hearts; by Vinay Somawat.",
 				"&copy; No Copyrights. Feel free to use this template."
 			],
 		},
