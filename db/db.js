@@ -134,7 +134,7 @@ export default {
 		{
 			title: "DooHoINS Co., Ltd",
 			duration: "Jan 2016 - Dec 2018",
-			subtitle: "Senior staff",
+			subtitle: "Technical Sales Senior staff",
 			details: [
                 		"Conducted comparative analysis of products (material type, size, predicted work hour, work type and price) to finalise proper quotes for clients.",
 				"Presented sales report for business development planning, and analysis for product trends.",
