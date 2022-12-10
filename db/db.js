@@ -106,7 +106,7 @@ export default {
 				summary:
 					"Analysing Australians' response about life, COVID-19, vaccine, mental health, employment, income, behaviour from Life in Australia Wave41 August 2020.",
 				preview:
-					"will update soon",
+					"https://drive.google.com/file/d/1rbl3i3FSvYA0VhkNP0lJEO_U-XdizuJS/view?usp=share_link",
 				techStack: ["Python", "R"],
 			},
 		],
