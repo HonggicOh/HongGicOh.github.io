@@ -129,7 +129,7 @@ export default {
 				"Analysis",
 				"Client response"
 			],
-			icon: "factory",
+			icon: "company",
 		},
 		{
 			title: "DooHoINS Co., Ltd",
@@ -149,7 +149,7 @@ export default {
 				"Price analysis",
 				"Client support",
 			],
-			icon: "qroup",
+			icon: "group",
 		},
 	],
 	education: [
