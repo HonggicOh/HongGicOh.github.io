@@ -3,181 +3,256 @@ export default {
 		about: {
 			text: [
 				"Hi &#128075;",
-				"I’m currently looking for a computer science job in Australia. I graduate in Master of Computing at ANU and I did my undergraduate study in Mathematics and business administration at Kyonggi University in Korea.",
-				"I'm a person who has an interest in data and electric car and curious about future technology. I have 3 years working experience in semiconductor and display manufacturing machine field as a Technical Sales and Quality Assurance manager.",
-				"Lastly, I love to play billiards, computer games, and watch a movie or sports games with beer.",
+				"I'm Vinay Somawat. I’m currently working as a Software Engineer at Biofourmis India specialized in JavaScript Applications. I did my undergrad in CS from NIT Warangal.",
+				"I'm a developer, geek and curious human besides being an OpenSource enthusiast. I have experience of delivering solutions for interesting problems from startup and industry space.",
+				"I love to read, listen to music, and travel.",
 			],
 		},
 		contact: {
 			text: [
-				"If you would like to get in touch with me, feel free to send me an email at cjswoghdwlr@gmail.com",
+				"If you would like to get in touch with me, be it for exploring a technology, a business, or to just say hi, feel free to send me an email. My email address is: vinaysomawat40@gmail.com",
 			],
 		},
 	},
 	skills: [
 		{
 			title: "Languages",
-			skillName: "Python",
+			skillName: "JavaScript, C++",
 			color: "1",
-			percentage: "80",
+			percentage: "70",
 		},
 		{
-			title: "Backend",
-			skillName: "SQL",
+			title: "Frameworks/Libraries",
+			skillName: "Angular, Reactjs",
 			color: "6",
-			percentage: "80",
+			percentage: "50",
 		},
 		{
 			title: "Backend",
-			skillName: "Java",
-			color: "5",
+			skillName: "Nodejs, MongoDB",
+			color: "2",
+			percentage: "40",
+		},
+		{
+			title: "Clouds",
+			skillName: "AWS(EC2, S3), Heroku, Netlify",
+			color: "3",
+			percentage: "30",
+		},
+		{
+			title: "Design",
+			skillName: "HTML, Bootstrap, SCSS",
+			color: "4",
 			percentage: "70",
 		},
 		{
 			title: "Version Control",
-			skillName: "GitHub, Trello",
+			skillName: "GitHub, JIRA, Trello",
 			color: "7",
 			percentage: "70",
 		},
 		{
-			title: "Analysis",
-			skillName: "R, Visualisation",
+			title: "Tools",
+			skillName: "Postman, Chrome DevTools",
 			color: "3",
+			percentage: "80",
+		},
+		{
+			title: "Saas products",
+			skillName: "CleverTap, FreshDesk",
+			color: "5",
+			percentage: "50",
+		},
+		{
+			title: "Editor",
+			skillName: "VS Code",
+			color: "6",
 			percentage: "70",
 		},
 	],
 	projects: {
 		web: [
 			{
-				projectName: "Agri modelling",
-				image: "images/agri.png",
+				projectName: "Programming Diaries",
+				image: "images/programmingdiaries.png",
 				summary:
-					"Collected data and manipulated data for prediction algorithm. Role : Data collection, Data wrangling, Data mining",
-				preview: "http://13.211.157.235:5000/home/",
-				techStack: ["Excel", "Python", "R", "Web search"],
+					"Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
+				preview: "https://programmingdiaries.herokuapp.com/",
+				techStack: [
+					"Django",
+					"SQLite",
+					"Bootstrap",
+					"JavaScript",
+					"Heroku",
+				],
 			},
 			{
-				projectName: "Team Kosy",
-				image: "images/kosy.png",
+				projectName: "Find Your Bank",
+				image: "images/findyourbank.png",
 				summary:
-					"Found out the correlation between the number of electric car and power station. Role : Data collection, Data wrangling, Data mining, Team management ",
-				preview: "https://teamkosy.pythonanywhere.com/",
-				techStack: ["Excel", "Python", "R"],
+					"Developed a React application to render a list of banks fetched from API. Filtered the banks based on queries from localstorage, marked favorites banks.",
+				preview: "https://clever-fermi-0d5d76.netlify.app",
+				techStack: ["Reactjs", "Bootstrap", "JavaScript", "Netlify"],
 			},
-
+			{
+				projectName: "Web Portfolio",
+				image: "images/portfolio.png",
+				summary:
+					"Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
+				preview: "https://github.com/vinaysomawat/Travographer-Portal",
+				techStack: ["HTML", "Bootstrap", "JavaScript"],
+			},
+			{
+				projectName: "Resume Builder",
+				image: "images/resume-builder.png",
+				summary:
+					"Browser based editor to build and download Resumes in a customizable templates.",
+				preview: "https://vinaysomawat.github.io/Resume-Builder",
+				techStack: ["HTML", "Bootstrap", "JavaScript"],
+			},
 		],
 		software: [
 			{
-				projectName: "AZUL",
-				image: "images/AZUL.png",
+				projectName: "Pizza Ordering ChatBot",
+				image: "images/pizzaorderchatbot.png",
 				summary:
-					"Implemented board game Azul based on OOP. Enable player to play a game with computer or another player.Role: Front-end(full), Back-end(partial)",
+					"ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
 				preview:
 					"https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
-				techStack: ["Java", "JavaFx"],
+				techStack: ["Dailogflow", "Firebase"],
+			},
+			{
+				projectName: "WhatsApp-Bot",
+				image: "images/whatsappbot.jpg",
+				summary:
+					"Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
+				preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
+				techStack: ["Selenium", "Chrome Webdriver", "Python"],
+			},
+			{
+				projectName: "Bill Generator",
+				image: "images/billgenerator.png",
+				summary:
+					"GUI to transfer data to excel sheets and generate bills on the local shops.",
+				preview: "https://github.com/vinaysomawat/Bill-Generator",
+				techStack: ["Tkinter", "Openxlpy", "Python"],
 			},
 		],
 		android: [
 			{
-				projectName: "Route42",
-				image: "images/route.jpg",
+				projectName: "NITW-CSE",
+				image: "images/nitwcse.jpg",
 				summary:
-					"Social Network Service app with route tracking service. Role : Search implementation, Grammar, UI Testing",
-				preview: "https://github.com/HonggicOh/Route42",
-				techStack: ["AndroidStudio", "Espresso"],
-			}
-		],
-		Other projects & Assignments: [
-			{
-				projectName: "SNS energy keyword analysis(Ongoing)",
-				image: "images/a.png",
-				summary:
-					"Collect and analyse Australian's idea about eco-friendly energy on Tweeter.",
-				preview: "will update soon",
-				techStack: ["Python"],
+					"The Application display details of Department courses, reference books, research, publication and faculty profile.",
+				preview: "https://github.com/vinaysomawat/NITW-CSE",
+				techStack: ["JAVA", "XML", "Android"],
 			},
 			{
-				projectName: "Questionnaire Analysis",
-				image: "images/QA.png",
+				projectName: "CareerHigh-App",
+				image: "images/carrerhigh.png",
 				summary:
-					"Analysing Australians' response about life, COVID-19, vaccine, mental health, employment, income, behaviour from Life in Australia Wave41 August 2020.",
+					"The Application display the webpages of website careerhigh.in in android devices.",
+				preview: "https://github.com/vinaysomawat/CareerHigh-Android",
+				techStack: ["JAVA", "XML", "Android"],
+			},
+		],
+		freelance: [
+			{
+				projectName: "SnylloAir.com",
+				image: "images/snylloair.png",
+				summary:
+					"Developed a company website to showcase the purpose, services and products provided by the company to audience.",
+				preview: "https://www.snylloair.com/",
+				techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
+			},
+			{
+				projectName: "Delivery+",
+				image: "images/AM-Logo-.png",
+				summary:
+					"Android Application to display website in android devices.",
 				preview:
-					"will update soon",
-				techStack: ["Python", "R"],
+					"https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
+				techStack: ["Android", "JAVA", "Play Store"],
 			},
 		],
 	},
 	experience: [
 		{
-			title: "DooHoINS Co., Ltd",
-			duration: "Jan 2018 - Dec 2019",
-			subtitle: "Quality Assurance Manager",
+			title: "Biofourmis India Pvt. Ltd.",
+			duration: "April 2022 - Present",
+			subtitle: "Software Engineer",
 			details: [
-				"Assessed materials and products for conformance with quality control requirements and production specifications",
-				"Published monthly Non-Conformance Reports(NCR) to provide statistical data about issues and solutions."
-				"Established Standard Operating Procedure (SOP)"
-				"Client Audit preparation"
+				"Working on the products in the healthcare/digital therapeutics domain."
 			],
 			tags: [
-				"SOP",
-				"NCR",
-				"Schedule management",
-				"Analysis",
-				"Client response"
+				"JavaScript",
+				"Angular",
+				"Bootstrap",
+				"Nodejs",
+				"Jenkins",
 			],
 			icon: "heartbeat",
 		},
 		{
-			title: "DooHoINS Co., Ltd",
-			duration: "Jan 2016 - Dec 2018",
-			subtitle: "Senior staff",
+			title: "Novopay Solutions Pvt. Ltd.",
+			duration: "June 2020 - April 2022",
+			subtitle: "Software Engineer",
 			details: [
-                "Conducted comparative analysis of products (material type, size, predicted work hour, work type and price) to finalise proper quotes for clients."
-				"Presented sales report for business development planning, and analysis for product trends.",
-				"Managed inventory data to adjust, evaluate and forecast demand.",
-				"Ensured successful product delivery by coordinating with the manufacturing, delivery team and clients."
+				"Implemented Aadhaar Enabled Payment services such as Bio-metric eKYC, Cash Withdrawal, Balance Enquiry, Mini-Statements, and Money transfer; completed more than 20 story points in each sprint.",
+				"Integrated QR Code and reduced the effective time by 50 percent to load money into wallet, Clevertap events to track user actions, Freshdesk ticketing service and chat-bot services. Worked on user onboarding, approval, and finance interfaces.",
+				"Co-ordinated closely with the product team, backend team, android team, and QA team to deliver the product builds before deadlines.",
 			],
 			tags: [
-				"CAD"
-				"Quote",
-				"Inventory management",
-				"Sales report",
-				"Price analysis",
-				"Client support",
+				"JavaScript",
+				"Angular",
+				"React",
+				"Bootstrap",
+				"Nodejs",
+				"Jenkins",
 			],
-			icon: "qroup",
+			icon: "qrcode",
+		},
+		{
+			title: "ThinkPedia LLP",
+			duration: "May 2019 - June 2019",
+			subtitle: "SDE Intern",
+			details: [
+				"Worked as a full stack developer to support tech team.",
+				"Developed a customer Web Application from scratch for social media management.",
+			],
+			tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
+			icon: "group",
 		},
 	],
 	education: [
 		{
-			title: "Master of computing",
+			title: "Bachelors in Computer Science and Engineering",
 			duration: "",
-			subtitle: "Australian National University, Canberra",
+			subtitle: "National Institute of Technology, Warangal",
 			details: [
-				"Data Science specialisation.",
-				"GPA of 5.56 out of 7.0",
-				"Received over 80% marks for most coding assignments.",
+				"Qualified GATE-2020.",
+				"Active Competitive Programmer with CodeChef Rating 1841*.",
+				"Received 500+ stars and 300+ forks on GitHub projects.",
 			],
 			tags: [
-				"Data Mining",
-				"Data wrangling",
-				"Relational Database",
-				"Document analysis",
-				"Software construction",
-				"Structured programming",
-				"Artificial Intelligence"
+				"Data Structures & Algorithms",
+				"Operating Systems",
+				"Database Management System",
+				"Computer Networks",
+				"Compiler Designing",
+				"Cloud Computing",
 			],
 			icon: "graduation-cap",
 		},
 		{
-			title: "Mathematics (Bachelor of Science in Science)",
+			title: "Class 11-12th in Science and Mathematics",
 			duration: "",
-			subtitle: "Kyonggi University, Suwon, Republic of Korea",
+			subtitle: "Board of Secondary Education, Rajasthan",
 			details: [
-				"GPA of 3.6 out of 4.5",
-				"Double major in Business Administration",
+				"Qualified JEE Advanced, Main & BITSAT.",
+				"Secured 99.5 percentile in Class 12th Boards Examinations.",
 			],
-			tags: ["Analytics", "Cryptography", "Algebra"],
+			tags: ["Physics", "Chemistry", "Mathematics"],
 			icon: "book",
 		},
 	],
@@ -186,10 +261,17 @@ export default {
 			label: "Dev Profiles",
 			data: [
 				{
+					text: "Stackoverflow",
+					link: "https://stackoverflow.com/users/8461233/vinay-somawat",
+				},
+				{
 					text: "GitHub",
-					link: "https://github.com/HonggicOh",
-				}
-
+					link: "https://github.com/vinaysomawat",
+				},
+				{
+					text: "LeetCode",
+					link: "https://leetcode.com/somawatvinay/",
+				},
 			],
 		},
 		{
@@ -203,6 +285,10 @@ export default {
 					text: "Print this page",
 					func: "window.print()",
 				},
+				{
+					text: "Clone this page",
+					link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+				},
 			],
 		},
 		{
@@ -210,13 +296,24 @@ export default {
 			data: [
 				{
 					text: "Linkedin",
-					link: "https://www.linkedin.com/in/honggic-oh-46b909242/",
+					link: "https://www.linkedin.com/in/vinaysomawat/",
 				},
 				{
-					text: "Facebook",
-					link: "https://www.facebook.com/profile.php?id=100004629722861",
-				}
+					text: "Twitter",
+					link: "https://twitter.com/thesigmakid",
+				},
+				{
+					text: "Buy me a coffee",
+					link: "https://www.buymeacoffee.com/r194dME8y",
+				},
 			],
-		}
+		},
+		{
+			label: "copyright-text",
+			data: [
+				"Made with &hearts; by Vinay Somawat.",
+				"&copy; No Copyrights. Feel free to use this template."
+			],
+		},
 	],
 };
