@@ -3,7 +3,7 @@ export default {
 		about: {
 			text: [
 				"Hi &#128075;",
-				"I’m currently looking for a computer science job in Australia. I graduate in Master of Computing at ANU and I did my undergraduate study in Mathematics and business administration at Kyonggi University in Korea.",
+				"I’m Hong Gic and currently looking for a computer science job in Australia. I graduate in Master of Computing at ANU and I did my undergraduate study in Mathematics and business administration at Kyonggi University in Korea.",
 				"I'm a person who has an interest in data and electric car and curious about future technology. I have 3 years working experience in semiconductor and display manufacturing machine field as a Technical Sales and Quality Assurance manager.",
 				"Lastly, I love to play billiards, computer games, and watch a movie or sports games with beer.",
 			],
@@ -35,7 +35,7 @@ export default {
 		},
 		{
 			title: "Version Control",
-			skillName: "GitHub, JIRA, Trello",
+			skillName: "GitHub, Trello",
 			color: "7",
 			percentage: "70",
 		},
@@ -49,42 +49,25 @@ export default {
 	projects: {
 		web: [
 			{
-				projectName: "Programming Diaries",
-				image: "images/programmingdiaries.png",
+				projectName: "Agri modelling",
+				image: "images/agri.png",
 				summary:
-					"Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
-				preview: "https://programmingdiaries.herokuapp.com/",
+					"Collected data and manipulated data for prediction algorithm. Role : Data collection, Data wrangling, Data mining",
+				preview: "http://13.211.157.235:5000/home/",
 				techStack: [
-					"Django",
-					"SQLite",
-					"Bootstrap",
-					"JavaScript",
-					"Heroku",
+					"Excel",
+					"Python",
+					"R",
+					"Web search",
 				],
 			},
 			{
-				projectName: "Find Your Bank",
-				image: "images/findyourbank.png",
+				projectName: "Team Kosy",
+				image: "images/Kosy.png",
 				summary:
-					"Developed a React application to render a list of banks fetched from API. Filtered the banks based on queries from localstorage, marked favorites banks.",
-				preview: "https://clever-fermi-0d5d76.netlify.app",
-				techStack: ["Reactjs", "Bootstrap", "JavaScript", "Netlify"],
-			},
-			{
-				projectName: "Web Portfolio",
-				image: "images/portfolio.png",
-				summary:
-					"Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-				preview: "https://github.com/vinaysomawat/Travographer-Portal",
-				techStack: ["HTML", "Bootstrap", "JavaScript"],
-			},
-			{
-				projectName: "Resume Builder",
-				image: "images/resume-builder.png",
-				summary:
-					"Browser based editor to build and download Resumes in a customizable templates.",
-				preview: "https://vinaysomawat.github.io/Resume-Builder",
-				techStack: ["HTML", "Bootstrap", "JavaScript"],
+					"Found out the correlation between the number of electric car and power station. Role : Data collection, Data wrangling, Data mining, Team management ",
+				preview: "https://teamkosy.pythonanywhere.com/",
+				techStack: ["Excel", "Python", "R",],
 			},
 		],
 		software: [
