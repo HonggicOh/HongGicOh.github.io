@@ -63,17 +63,18 @@ export default {
 			},
 			{
 				projectName: "Team Kosy",
-				image: "images/Kosy.png",
+				image: "images/kosy.png",
 				summary:
-					"Found out the correlation between the number of electric car and power station. Role : Data collection, Data wrangling, Data mining, Team management ",
+					"Found out the correlation between the number of electric car and power station.",
+				Role : "Data collection, Data wrangling, Data mining, Team management",
 				preview: "https://teamkosy.pythonanywhere.com/",
 				techStack: ["Excel", "Python", "R",],
 			},
 		],
 		software: [
 			{
-				projectName: "Pizza Ordering ChatBot",
-				image: "images/pizzaorderchatbot.png",
+				projectName: "AZUL",
+				image: "images/AZUL.png",
 				summary:
 					"ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
 				preview:
