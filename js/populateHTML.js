@@ -1,18 +1,5 @@
 import { default as data } from "../db/db.js";
 
-/*
-	fetching latest blogs from medium.com
-*/
-function fetchBlogsFromMedium() {
-	fetch(
-		"https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@vinaysomawat"
-	)
-		.then((response) => response.json())
-		.then((data) => {
-			populateBlogs(data["items"], "blogs", "read-more-blogs");
-		});
-}
-
 function populateSkills(items, id) {
 	let skillsTag = document.getElementById(id);
 	for (let i = 0; i < items.length; i++) {
@@ -295,9 +282,6 @@ function getElement(tagName,className) {
 
 
 populateSkills(data.skills, "skills");
-
-fetchBlogsFromMedium();
-
 populateProjects(data.projects.web, "web-projects");
 populateProjects(data.projects.software, "software-projects");
 populateProjects(data.projects.android, "android-projects");
