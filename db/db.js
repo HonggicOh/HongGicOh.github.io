@@ -129,7 +129,7 @@ export default {
 				"Analysis",
 				"Client response"
 			],
-			icon: "graph",
+			icon: "bar-chart",
 		},
 		{
 			title: "DooHoINS Co., Ltd",
