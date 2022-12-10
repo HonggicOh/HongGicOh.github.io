@@ -94,7 +94,7 @@ export default {
 		Analysis: [
 			{
 				projectName: "SNS energy keyword analysis(Ongoing)",
-				image: "images/a.png",
+				image: "images/tweeter.png",
 				summary:
 					"Collect and analyse Australian's idea about eco-friendly energy on Tweeter.",
 				preview: "will update soon",
@@ -129,7 +129,7 @@ export default {
 				"Analysis",
 				"Client response"
 			],
-			icon: "semiconductor",
+			icon: "factory",
 		},
 		{
 			title: "DooHoINS Co., Ltd",
@@ -181,7 +181,7 @@ export default {
 				"GPA of 3.6 out of 4.5.",
 				"Double major in Business Administration.",
 			],
-			tags: ["Analytics", "Cryptography", "Algebra"],
+			tags: ["Analytics", "Cryptography", "Algebra","Business administration",],
 			icon: "book",
 		},
 	],
