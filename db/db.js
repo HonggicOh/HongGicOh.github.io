@@ -17,32 +17,32 @@ export default {
 	skills: [
 		{
 			title: "Languages",
-			skillName: "Python",
+			skillName: "Python(fluent)",
 			color: "1",
 			percentage: "80",
 		},
 		{
 			title: "Backend",
-			skillName: "SQL",
+			skillName: "SQL(fluent)",
 			color: "6",
 			percentage: "80",
 		},
 		{
 			title: "Languages",
-			skillName: "Java",
+			skillName: "Java(intermediate)",
 			color: "2",
 			percentage: "70",
 		},
 		{
 			title: "Version Control",
-			skillName: "GitHub, Trello",
+			skillName: "GitHub, Trello(intermediate)",
 			color: "3",
 			percentage: "70",
 		},
 		{
 			title: "Analysis",
-			skillName: "R, Visualisation",
-			color: "8",
+			skillName: "R, Visualisation(intermediate)",
+			color: "5",
 			percentage: "70",
 		},
 	],
@@ -52,7 +52,7 @@ export default {
 				projectName: "Agri modelling",
 				image: "images/agri.png",
 				summary:
-					"Collected data and manipulated data for prediction algorithm.\nRole : Data collection, Data wrangling, Data mining",
+					"Collected data and manipulated data for prediction algorithm. My role was Data collection, Data wrangling, and Data mining",
 				preview: "http://13.211.157.235:5000/home/",
 				techStack: [
 					"Excel",
@@ -65,7 +65,7 @@ export default {
 				projectName: "Team Kosy",
 				image: "images/kosy.png",
 				summary:
-					"Found out the correlation between the number of electric car and power station.\r\nRole : Data collection, Data wrangling, Data mining, Team management",
+					"Found out the correlation between the number of electric car and power station.My role was Data collection, Data wrangling, Data mining, and Team management",
 				preview: "https://teamkosy.pythonanywhere.com/",
 				techStack: ["Excel", "Python", "R"],
 			},
@@ -75,7 +75,7 @@ export default {
 				projectName: "AZUL",
 				image: "images/AZUL.png",
 				summary:
-					"Implemented board game Azul based on OOP. Enable player to play a game with computer or another player.\r\nRole: Front-end(full), Back-end(partial)",
+					"Implemented board game Azul based on OOP. Enable player to play a game with computer or another player. My role was Front-end(full) and Back-end(partial)",
 				preview:
 					"https://github.com/HonggicOh/AZUL",
 				techStack: ["Java", "JavaFx"],
@@ -86,7 +86,7 @@ export default {
 				projectName: "Route42",
 				image: "images/route.png",
 				summary:
-					"Social Network Service app with route tracking service.\r\nRole : Search implementation, Grammar, UI Testing",
+					"Social Network Service app with route tracking service.My role was Search implementation, Grammar, and UI Testing",
 				preview: "https://github.com/HonggicOh/Route42",
 				techStack: ["AndroidStudio", "Espresso"],
 			},
@@ -129,7 +129,7 @@ export default {
 				"Analysis",
 				"Client response"
 			],
-			icon: "statistics",
+			icon: "graph",
 		},
 		{
 			title: "DooHoINS Co., Ltd",
@@ -174,7 +174,7 @@ export default {
 			icon: "graduation-cap",
 		},
 		{
-			title: "Mathematics (Bachelor of Science in Science)",
+			title: "Bachelor of Mathematics",
 			duration: "",
 			subtitle: "Kyonggi University, Suwon, Republic of Korea",
 			details: [
