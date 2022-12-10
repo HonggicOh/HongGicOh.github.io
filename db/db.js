@@ -117,7 +117,10 @@ export default {
 			duration: "Jan 2018 - Dec 2019",
 			subtitle: "Quality Assurance Manager",
 			details: [
-				"Assessed materials and products for conformance with quality control requirements and production specifications\nPublished monthly Non-Conformance Reports(NCR) to provide statistical data about issues and solutions.\nEstablished Standard Operating Procedure (SOP)\nClient Audit preparation",
+				"Assessed materials and products for conformance with quality control requirements and production specifications",
+				"Published monthly Non-Conformance Reports(NCR) to provide statistical data about issues and solutions.",
+				"Established Standard Operating Procedure (SOP)",
+				"Client Audit preparation",
 			],
 			tags: [
 				"SOP",
@@ -133,7 +136,10 @@ export default {
 			duration: "Jan 2016 - Dec 2018",
 			subtitle: "Senior staff",
 			details: [
-                		"Conducted comparative analysis of products (material type, size, predicted work hour, work type and price) to finalise proper quotes for clients.\nPresented sales report for business development planning, and analysis for product trends.\nManaged inventory data to adjust, evaluate and forecast demand.\nEnsured successful product delivery by coordinating with the manufacturing, delivery team and clients.",
+                		"Conducted comparative analysis of products (material type, size, predicted work hour, work type and price) to finalise proper quotes for clients.",
+				"Presented sales report for business development planning, and analysis for product trends.",
+				"Managed inventory data to adjust, evaluate and forecast demand.",
+				"Ensured successful product delivery by coordinating with the manufacturing, delivery team and clients.",
 			],
 			tags: [
 				"CAD"
@@ -152,7 +158,9 @@ export default {
 			duration: "",
 			subtitle: "Australian National University, Canberra",
 			details: [
-				"Data Science specialisation.\nGPA of 5.56 out of 7.0\nReceived over 80% marks for most coding assignments.",
+				"Data Science specialisation.",
+				"GPA of 5.56 out of 7.0.",
+				"Received over 80% marks for most coding assignments.",
 			],
 			tags: [
 				"Data Mining",
@@ -170,7 +178,8 @@ export default {
 			duration: "",
 			subtitle: "Kyonggi University, Suwon, Republic of Korea",
 			details: [
-				"GPA of 3.6 out of 4.5\nDouble major in Business Administration",
+				"GPA of 3.6 out of 4.5.",
+				"Double major in Business Administration.",
 			],
 			tags: ["Analytics", "Cryptography", "Algebra"],
 			icon: "book",
