@@ -142,7 +142,7 @@ export default {
 				"Ensured successful product delivery by coordinating with the manufacturing, delivery team and clients.",
 			],
 			tags: [
-				"CAD"
+				"CAD",
 				"Quote",
 				"Inventory management",
 				"Sales report",
