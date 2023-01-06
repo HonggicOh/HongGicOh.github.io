@@ -86,7 +86,7 @@ export default {
 				projectName: "Route42",
 				image: "images/route.png",
 				summary:
-					"Social Network Service app with route tracking service.My main role was Search implementation, Grammar, and UI Testing",
+					"Social Network Service app with route tracking service.My main role was Search implementation, Grammar, and Unit and UI Testing",
 				preview: "https://github.com/HonggicOh/Route42",
 				techStack: ["AndroidStudio", "Espresso"],
 			},
