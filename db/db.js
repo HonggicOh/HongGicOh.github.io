@@ -45,6 +45,12 @@ export default {
 			color: "5",
 			percentage: "70",
 		},
+		{
+			title: "Documentation",
+			skillName: "Microsoft office tools(Excel, Powerpoint, Word/ proficient)",
+			color: "4",
+			percentage: "90",
+		},
 	],
 	projects: {
 		web: [
