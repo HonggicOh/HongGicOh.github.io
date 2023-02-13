@@ -17,37 +17,37 @@ export default {
 	skills: [
 		{
 			title: "Languages",
-			skillName: "Python(fluent)",
+			skillName: "Python(Can work independently)",
 			color: "1",
 			percentage: "80",
 		},
 		{
 			title: "Backend",
-			skillName: "SQL(fluent)",
+			skillName: "SQL(Can work independently)",
 			color: "6",
 			percentage: "80",
 		},
 		{
 			title: "Languages",
-			skillName: "Java(intermediate)",
+			skillName: "Java(Can work under supervision)",
 			color: "2",
 			percentage: "70",
 		},
 		{
 			title: "Version Control",
-			skillName: "GitHub, Trello(intermediate)",
+			skillName: "GitHub, Trello(Can work independently)",
 			color: "3",
 			percentage: "70",
 		},
 		{
 			title: "Analysis",
-			skillName: "R, Visualisation(intermediate)",
+			skillName: "R, Visualisation(Can work under supervision)",
 			color: "5",
 			percentage: "70",
 		},
 		{
 			title: "Documentation",
-			skillName: "Microsoft office tools(Excel, Powerpoint, Word/ proficient)",
+			skillName: "Microsoft office tools(Have certification)",
 			color: "4",
 			percentage: "90",
 		},
