@@ -59,7 +59,7 @@ export default {
 				image: "images/agri.png",
 				summary:
 					"Predict future Australian crop production and price from various factors such as weather, global crop trade, etc. My main role in this project was data collection, cleaning, mining, and aggregation for prediction algorithm.",
-				preview: "http://13.211.157.235:5000/home/",
+				preview: "https://github.com/TZZTERRY/Agricultural-Modelling/tree/main",
 				techStack: [
 					"Excel",
 					"Python",
@@ -125,6 +125,7 @@ export default {
 			details: [
 				"Managed Weather Data Team. Analysed Australian Monthly Weather Data, Process Weather data, Managed production of Weather data by Australian Climate Data Bank, Typical meteorological year (TMY2), Energy Plus Weather (EPW) format.",
 				"Tried to synthesise historical precipitation data by Marcov chain algorithm and managed machine learning and Deep Learning model",
+				"Paper review, Prepared articles for monthly publication",
 				"Build Sales Portal and Manage Company WordPress Blog and Website."
 				
 			],
