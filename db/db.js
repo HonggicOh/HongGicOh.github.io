@@ -119,6 +119,25 @@ export default {
 	},
 	experience: [
 		{
+			title: "Exemplary Energy Co., Pty Ltd",
+			duration: "Feb 2023 - Current",
+			subtitle: "Senior Analyst Programmer",
+			details: [
+				"Managed Weather Data Team. Analysed Australian Monthly Weather Data, Process Weather data, Managed production of Weather data by Australian Climate Data Bank, Typical meteorological year (TMY2), Energy Plus Weather (EPW) format.",
+				"Tried to synthesise historical precipitation data by Marcov chain algorithm and managed machine learning and Deep Learning model",
+				"Build Sales Portal and Manage Company WordPress Blog and Website."
+				
+			],
+			tags: [
+				"Weather Data Processing and Producing",
+				"Weather Data Analysis",
+				"Sales Portal",
+				"Website Management",
+				""
+			],
+			icon: "bar-chart",
+		},
+		{
 			title: "DooHoINS Co., Ltd",
 			duration: "Jan 2018 - Dec 2019",
 			subtitle: "Quality Assurance Manager",
