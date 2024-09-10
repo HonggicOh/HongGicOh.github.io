@@ -239,7 +239,7 @@ export default {
 			data: [
 				{
 					text: "Linkedin",
-					link: "https://www.linkedin.com/in/honggic-oh-46b909242/",
+					link: "https://www.linkedin.com/in/hong-gic-oh-46b909242/",
 				},
 				{
 					text: "Facebook",
