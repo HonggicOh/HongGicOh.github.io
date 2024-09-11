@@ -140,6 +140,7 @@ export default {
 				preview: "https://teamkosy.pythonanywhere.com/",
 				techStack: ["Python","review"],
 			},
+		],
 			
 	},
 	experience: [
