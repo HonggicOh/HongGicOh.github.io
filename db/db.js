@@ -55,6 +55,19 @@ export default {
 	projects: {
 		web: [
 			{
+				projectName: "Sales Portal",
+				image: "images/agri.png",
+				summary:
+					"Led the design and development of a sales portal.",
+				preview: "https://exemplary.energy/data-purchase/",
+				techStack: [
+					"HTML",
+					"CSS",
+					"JavaScript",
+					"WordPress",
+				],
+			},
+						{
 				projectName: "Agri modelling",
 				image: "images/agri.png",
 				summary:
@@ -67,16 +80,18 @@ export default {
 					"Web search",
 				],
 			},
-			{
-				projectName: "Team Kosy",
-				image: "images/kosy.png",
-				summary:
-					"Find out the precise correlation between the number of electric cars and power stations. My main role was data collection, cleaning, aggregation, mining, and project management",
-				preview: "https://teamkosy.pythonanywhere.com/",
-				techStack: ["Excel", "Python", "R","Crawling"],
-			},
+			
 		],
 		software: [
+			{
+				projectName: "Climate Cypher",
+				image: "images/AZUL.png",
+				summary:
+					"Contributed to improving weather file processing software by testing with visualisation and debugging. Used this software with Python code to produce multiple weather data format (TMY2, ACDB, and EPW).",
+				preview:
+					"https://exemplary.energy/2023/09/14/enhanced-qa-process-for-climate-cypher-producing-truly-reliable-weather-data/",
+				techStack: ["Test", "Python", "VisualBasic"],
+			},
 			{
 				projectName: "AZUL",
 				image: "images/AZUL.png",
@@ -99,12 +114,12 @@ export default {
 		],
 		Analysis: [
 			{
-				projectName: "SNS energy keyword analysis(Ongoing)",
-				image: "images/tweeter.png",
+				projectName: "Team Kosy",
+				image: "images/kosy.png",
 				summary:
-					"Collect and analyse Australian's idea about eco-friendly energy on Tweeter.",
-				preview: "will update soon",
-				techStack: ["Python","OpenAPI"],
+					"Find out the precise correlation between the number of electric cars and power stations. My main role was data collection, cleaning, aggregation, mining, and project management",
+				preview: "https://teamkosy.pythonanywhere.com/",
+				techStack: ["Excel", "Python", "R","Crawling"],
 			},
 			{
 				projectName: "Questionnaire Analysis",
