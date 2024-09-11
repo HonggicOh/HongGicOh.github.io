@@ -56,7 +56,7 @@ export default {
 		web: [
 			{
 				projectName: "Sales Portal",
-				image: "images/agri.png",
+				image: "images/Sales-portal-main.jpg",
 				summary:
 					"Led the design and development of a sales portal.",
 				preview: "https://exemplary.energy/data-purchase/",
@@ -85,7 +85,7 @@ export default {
 		software: [
 			{
 				projectName: "Climate Cypher",
-				image: "images/AZUL.png",
+				image: "images/cloud.jpg",
 				summary:
 					"Contributed to improving weather file processing software by testing with visualisation and debugging. Used this software with Python code to produce multiple weather data format (TMY2, ACDB, and EPW).",
 				preview:
