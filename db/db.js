@@ -131,7 +131,25 @@ export default {
 				techStack: ["Python", "R"],
 			},
 		],
-
+		Research: [
+			{
+				projectName: "Team Kosy",
+				image: "images/kosy.png",
+				summary:
+					"Find out the precise correlation between the number of electric cars and power stations. My main role was data collection, cleaning, aggregation, mining, and project management",
+				preview: "https://teamkosy.pythonanywhere.com/",
+				techStack: ["Excel", "Python", "R","Crawling"],
+			},
+			{
+				projectName: "Questionnaire Analysis",
+				image: "images/QA.png",
+				summary:
+					"Analysing Australians' response about life, COVID-19, vaccine, mental health, employment, income, behaviour from Life in Australia Wave41 August 2020.",
+				preview:
+					"https://drive.google.com/file/d/1rbl3i3FSvYA0VhkNP0lJEO_U-XdizuJS/view?usp=share_link",
+				techStack: ["Python", "R"],
+			},
+		],
 			
 	},
 	experience: [
