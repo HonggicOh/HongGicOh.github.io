@@ -131,16 +131,7 @@ export default {
 				techStack: ["Python", "R"],
 			},
 		],
-		Research: [
-			{
-				projectName: "Precipitation Disaggregation",
-				image: "images/kosy.png",
-				summary:
-					"Disaggregate historical daily precipitation to half-hourly precipitation with weather variables by Machine learning and Deep learning. I managed this project with two interns.",
-				preview: "https://teamkosy.pythonanywhere.com/",
-				techStack: ["Python","review"],
-			},
-		],
+
 			
 	},
 	experience: [
