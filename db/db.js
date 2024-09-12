@@ -136,7 +136,7 @@ export default {
 				projectName: "Precipitation Disaggregation",
 				image: "images/kosy.png",
 				summary:
-					"Led a team to implement the model by Machine learning and Deep learning model project and peer reviewed paper (<a href ="https://onedrive.live.com/?cid=3482C31A1736EB5D&id=3482C31A1736EB5D%21s082b06c6f28d47e98b559a40fdac7a0c&parId=root&o=OneUp">Abstract</a>),
+					"Led a team to implement the model by Machine learning and Deep learning model project and peer reviewed paper,
 				preview: "https://teamkosy.pythonanywhere.com/",
 				techStack: ["Excel", "Python", "R","Crawling"],
 			},
