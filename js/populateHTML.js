@@ -286,6 +286,7 @@ populateProjects(data.projects.web, "web-projects");
 populateProjects(data.projects.software, "software-projects");
 populateProjects(data.projects.android, "android-projects");
 populateProjects(data.projects.Analysis, "Analysis-projects");
+populateProjects(data.projects.Research, "Research-projects");
 
 populateExp_Edu(data.experience, "experience");
 populateExp_Edu(data.education, "education");
