@@ -41,7 +41,7 @@ export default {
 		},
 		{
 			title: "Analysis",
-			skillName: "R, Python Matplotlib (Can work under supervision)",
+			skillName: "R, Python, Excel (Can work under supervision)",
 			color: "5",
 			percentage: "70",
 		},
