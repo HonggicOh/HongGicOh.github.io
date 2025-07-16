@@ -29,7 +29,7 @@ export default {
 		},
 		{
 			title: "Frontend",
-			skillName: "HTML, JS, CS, WordPress (Can work independently)",
+			skillName: "HTML, WordPress (Can work independently)",
 			color: "3",
 			percentage: "80",
 		},
@@ -41,7 +41,7 @@ export default {
 		},
 		{
 			title: "Analysis",
-			skillName: "R, Python, Excel (Can work under supervision)",
+			skillName: "R, Python, Excel (Can work independently)",
 			color: "5",
 			percentage: "70",
 		},
