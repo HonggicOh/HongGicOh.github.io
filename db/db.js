@@ -3,9 +3,9 @@ export default {
 		about: {
 			text: [
 				"Hi &#128075;",
-				"I’m Hong Gic and currently looking for a computer science job in Australia. I graduate in Master of Computing at ANU and I did my undergraduate study in Mathematics and business administration at Kyonggi University in Korea.",
-				"I'm a person who has an interest in data and electric car and curious about future technology. I have 3 years working experience in semiconductor and display manufacturing machine field as a Technical Sales and Quality Assurance manager.",
-				"Lastly, I love to play billiards, computer games, and watch a movie or sports games with beer.",
+				"I’m Hong Gic, currently working as an Analyst Programmer in Australia with 2 years of experience in data-driven and simulation-based projects in weather and HVAC field. I hold a Master of Computing from the Australian National University, and my academic background also includes a double major in Mathematics and Business Administration from Kyonggi University in Korea.",
+				"I'm passionate about data, electric vehicles, and emerging technologies. My long-term goal is to contribute to the renewable energy sector by applying data science and programming to develop smarter, more sustainable systems.",
+				"Outside of work, I enjoy playing billiards, gaming, and relaxing with a movie or sports match (and a cold beer 🍺).",
 			],
 		},
 		contact: {
