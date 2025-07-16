@@ -217,7 +217,7 @@ export default {
 	education: [
 		{
 			title: "Master of computing",
-			duration: "",
+			duration: "Feb 2021 - Dec 2022",
 			subtitle: "Australian National University, Canberra",
 			details: [
 				"Data Science specialisation.",
@@ -237,7 +237,7 @@ export default {
 		},
 		{
 			title: "Bachelor of Mathematics",
-			duration: "",
+			duration: "Mar 2009 - Feb 2016",
 			subtitle: "Kyonggi University, Suwon, Republic of Korea",
 			details: [
 				"GPA of 3.6 out of 4.5.",
