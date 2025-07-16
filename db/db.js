@@ -29,8 +29,8 @@ export default {
 		},
 		{
 			title: "Frontend",
-			skillName: "HTML, JS, CSS, WordPress (Can work independently)",
-			color: "9",
+			skillName: "HTML, JS, CS, WordPress (Can work independently)",
+			color: "3",
 			percentage: "80",
 		},
 		{
