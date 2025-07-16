@@ -142,7 +142,7 @@ export default {
 			},
 			{
 				projectName: "Enhancing Australia’s Weather and Climate Data for Energy System and Weather-proofing Simulations",
-				image: "images/precipitation.png",
+				image: "images/weather.png",
 				summary:
 					"Conduct temporal analysis for 8 capital ciites in Australia from 1990 to 2024. enhancing Australia’s weather and climate datasets by leading climate data processing, integrating precipitation into simulation files, and running energy and moisture simulations to support climate-resilient building design.",
 				preview: "https://link.springer.com/article/10.1007/s00477-025-02996-0",
