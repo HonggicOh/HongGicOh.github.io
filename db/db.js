@@ -17,13 +17,13 @@ export default {
 	skills: [
 		{
 			title: "Languages",
-			skillName: "Python(Can work independently)",
+			skillName: "Python (Can work independently)",
 			color: "1",
 			percentage: "80",
 		},
 		{
 			title: "Backend",
-			skillName: "SQL(Can work independently)",
+			skillName: "SQL (Can work independently)",
 			color: "6",
 			percentage: "80",
 		},
@@ -35,7 +35,7 @@ export default {
 		},
 		{
 			title: "Languages",
-			skillName: "Java(Can work under supervision)",
+			skillName: "Java (Can work under supervision)",
 			color: "2",
 			percentage: "70",
 		},
@@ -47,7 +47,7 @@ export default {
 		},
 		{
 			title: "Documentation",
-			skillName: "Microsoft office tools(Have certification)",
+			skillName: "Microsoft office tools",
 			color: "4",
 			percentage: "90",
 		},
