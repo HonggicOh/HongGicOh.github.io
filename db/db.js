@@ -133,12 +133,20 @@ export default {
 		],
 		Research: [
 			{
-				projectName: "Precipitation Disaggregation",
+				projectName: "A long short-term memory model for sub-hourly temporal disaggregation of precipitation",
 				image: "images/precipitation.png",
 				summary:
-					"Led a team to implement the model by Machine learning and Deep learning model project and peer reviewed paper.",
-				preview: "https://link.springer.com/article/10.1007/s00477-025-02996-0",
+					"Led a team in developing and implementing machine learning and deep learning models, including LSTM, for temporal disaggregation of precipitation data. Supervised the technical workflow and peer-reviewed the manuscript drafts prior to submission.",
+				preview: "https://doi.org/10.1007/s00477-025-02996-0",
 				techStack: ["Python", "Model research"],
+			},
+			{
+				projectName: "Enhancing Australia’s Weather and Climate Data for Energy System and Weather-proofing Simulations",
+				image: "images/precipitation.png",
+				summary:
+					"Conduct temporal analysis for 8 capital ciites in Australia from 1990 to 2024. enhancing Australia’s weather and climate datasets by leading climate data processing, integrating precipitation into simulation files, and running energy and moisture simulations to support climate-resilient building design.",
+				preview: "https://link.springer.com/article/10.1007/s00477-025-02996-0",
+				techStack: ["Python", "Excel", "Energy Plus", "SAM"],
 			},
 
 		],
