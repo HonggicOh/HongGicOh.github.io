@@ -28,6 +28,12 @@ export default {
 			percentage: "80",
 		},
 		{
+			title: "Frontend",
+			skillName: "HTML, JS, CSS, WordPress (Can work independently)",
+			color: "9",
+			percentage: "80",
+		},
+		{
 			title: "Languages",
 			skillName: "Java(Can work under supervision)",
 			color: "2",
@@ -51,6 +57,7 @@ export default {
 			color: "4",
 			percentage: "90",
 		},
+
 	],
 	projects: {
 		web: [
