@@ -40,14 +40,8 @@ export default {
 			percentage: "70",
 		},
 		{
-			title: "Version Control",
-			skillName: "GitHub, Trello(Can work independently)",
-			color: "3",
-			percentage: "70",
-		},
-		{
 			title: "Analysis",
-			skillName: "R, Visualisation(Can work under supervision)",
+			skillName: "R, Python Matplotlib (Can work under supervision)",
 			color: "5",
 			percentage: "70",
 		},
