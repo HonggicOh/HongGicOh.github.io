@@ -137,7 +137,7 @@ export default {
 				image: "images/precipitation.png",
 				summary:
 					"Led a team to implement the model by Machine learning and Deep learning model project and peer reviewed paper.",
-				preview: "https://onedrive.live.com/?cid=3482C31A1736EB5D&id=3482C31A1736EB5D%21s082b06c6f28d47e98b559a40fdac7a0c&parId=root&o=OneUp",
+				preview: "https://link.springer.com/article/10.1007/s00477-025-02996-0",
 				techStack: ["Python", "Model research"],
 			},
 
