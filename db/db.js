@@ -119,7 +119,7 @@ export default {
 				image: "images/kosy.png",
 				summary:
 					"Find out the precise correlation between the number of electric cars and power stations. My main role was data collection, cleaning, aggregation, mining, and project management",
-				preview: "https://teamkosy.pythonanywhere.com/",
+				preview: "",
 				techStack: ["Excel", "Python", "R","Crawling"],
 			},
 			{
