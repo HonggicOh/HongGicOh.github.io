@@ -146,7 +146,7 @@ export default {
 				image: "images/weather.png",
 				summary:
 					"Conduct temporal analysis for 8 capital ciites in Australia from 1990 to 2024. enhancing Australia’s weather and climate datasets by leading climate data processing, integrating precipitation into simulation files, and running energy and moisture simulations to support climate-resilient building design.",
-				preview: "https://link.springer.com/article/10.1007/s00477-025-02996-0",
+				preview: "https://apvi.org.au/solar-research-conference/wp-content/uploads/2024/12/Lee_T_Enhancing_Australias_Weather_and_Climate_Data_for_Energy_System_and_Weather-proofing_Simulations.pdf",
 				techStack: ["Python", "Excel", "Energy Plus", "SAM"],
 			},
 
